@@ -273,4 +273,4 @@ async def on_message(message):
         await message.channel.send('Yanis le mec qui se fait Piocher sur fortnite et qui dit qu il est fort a cs alors qu il silver 4!' )
         await bot.process_commands(message)
 
-bot.run('Njk5OTA3NjQ4NjEwNjMxNzIw.Xpyq6A.mc_BEtT7Yzn1Rk9tj09fRTP0ibc')
+bot.run('token')
